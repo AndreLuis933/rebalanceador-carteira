@@ -23,7 +23,6 @@ Este projeto é uma ferramenta automatizada para rebalancear carteiras de invest
 ## Pré-requisitos
 
 - Python 3.x
-- Bibliotecas Python: pandas, beautifulsoup4, pyperclip, openpyxl
 
 ## Instalação
 
