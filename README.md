@@ -31,6 +31,12 @@ Este projeto é uma ferramenta automatizada para rebalancear carteiras de invest
 ```bash
 git clone https://github.com/AndreLuis933/rebalanceador-carteira
 ```
+# Crie e ative um ambiente virtual:
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/MacOS
+venv\Scripts\activate     # Windows
+```
 # Instale as dependências:
 ```bash
 pip install -r requirements.txt
